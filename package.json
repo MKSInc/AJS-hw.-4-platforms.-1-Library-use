@@ -1,0 +1,23 @@
+{
+  "name": "ajs-hw.-4-platforms.-1-library-use",
+  "version": "1.0.0",
+  "description": "AJS-8. Продвинутый JavaScript: современные возможности языка. Дом. з.:\r 4. Платформы: браузер vs Node.js - 1. Использование библиотеки",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKSInc/AJS-hw.-4-platforms.-1-Library-use.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKSInc/AJS-hw.-4-platforms.-1-Library-use/issues"
+  },
+  "homepage": "https://github.com/MKSInc/AJS-hw.-4-platforms.-1-Library-use#readme",
+  "dependencies": {
+    "@mksinc/ajs-hw.-4-platforms.-1-library": "^1.0.0"
+  }
+}
